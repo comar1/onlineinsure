@@ -1,0 +1,1 @@
+<h1><?php echo base_url() ?></h1>
